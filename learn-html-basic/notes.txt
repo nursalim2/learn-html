@@ -224,7 +224,41 @@ List Of Contents
 
 - File path
   - absolute path
-  - relative path   
+  - relative path
+
+- head 
+  - title
+  - style
+  - link
+  - script
+
+- layout
+  - float layout
+  - flex box layout
+
+- responsive
+  - viewport
+  - responsive image
+  - max width
+  - responsive text
+  - media queries
+
+- computer code
+  - keyboard (kbd)
+  - sample output (samp)
+  - code
+  - variable (var)
+
+- semantic
+  - section
+  - article
+  - header
+  - footer
+  - nav
+  - aside
+  - figure
+
+
 
 
     
