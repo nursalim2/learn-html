@@ -1,0 +1,37 @@
+- form 
+  - form
+  - radio
+  - checkbox
+
+- form attribute
+  - action  
+  - target
+  - method get, post
+  - autocomplete
+  - novalidate
+
+- form elements
+  - input
+  - select
+  - select with selected
+  - select with size
+  - multiple select
+  - text area
+  - text area css
+  - fieldset and legend
+  - datalist
+  - output
+
+- input types
+  - text
+  - password
+  - submit
+  - submit with default value
+  - reset
+  - radio
+  - checkbox
+  - button
+  - color
+  - date
+
+  
