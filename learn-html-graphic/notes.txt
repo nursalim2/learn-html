@@ -1,0 +1,15 @@
+- canvas
+  - canvas
+  - add javascript
+  - draw circle
+  - draw text
+  - stroke text
+  - linear gradient
+  - circular gradient
+  - draw image
+
+- svg
+  - circle
+  - rectangle
+  - rounded rectangle
+  - star
