@@ -1,0 +1,20 @@
+- video
+  - video
+  - autoplay
+  - muted
+
+- audio
+  - audio
+  - autoplay
+  - muted
+
+- plugins   
+  - object
+  - embed
+
+- youtube
+  - youtube
+  - autoplay and muted
+  - loop forever
+  - controls
+
