@@ -33,5 +33,45 @@
   - button
   - color
   - date
+  - date with min and max
+  - date time local
+  - email
+  - image
+  - file
+  - hidden
+  - month
+  - number
+  - number with restriction
+  - range
+  - search
+  - tel
+  - time
+  - url
+  - week
+
+- input attributes
+  - value
+  - readonly
+  - disable
+  - size
+  - maxlength
+  - min max
+  - multiple
+  - pattern
+  - placeholder
+  - required
+  - step
+  - autofocus
+  - width and height
+  - list
+  - autocomplete
+
+- input form attributes
+  - input form
+  - formaction
+  - formenctype
+  - formmethod
+  - formtarget
+  - novalidate    
 
   
