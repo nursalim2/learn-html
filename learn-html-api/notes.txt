@@ -1,0 +1,21 @@
+- geolocation
+  - geolocation
+  - error handling
+  - watch position
+
+- drag and drop
+  - drag and drop
+  - drag and drop back
+
+- web storage
+  - test web storage support
+  - local storage
+  - counting time
+  - session storage
+
+- web worker
+  - check web worker support
+  - web worker
+
+- server sent event
+  - server_sent_event.html       
